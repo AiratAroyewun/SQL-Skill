@@ -1,2 +1,2 @@
 # SQL-Skill
-This is to display my sql skills.
+A collection of my sample sql files to display my sql skills.
